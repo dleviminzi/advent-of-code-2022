@@ -2,6 +2,9 @@ use std::collections::HashSet;
 use std::error::Error;
 use std::fs;
 
+//DISCLAIMER: 
+//
+// I was in a rush and tired and this is terrrrrrrrrrrrrrrrrible
 pub struct Config {
     file_path: String,
     problem_number: i32,
